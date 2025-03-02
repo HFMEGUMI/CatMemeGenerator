@@ -1,0 +1,178 @@
+[
+    {
+        "id": "angry_cat",
+        "usage": "生气，被凝视的场景"
+    },
+    {
+        "id": "a_cat_hitting_another_cat",
+        "usage": "被责备的场景"
+    },
+    {
+        "id": "banana-like-cat-fainting",
+        "usage": "无语，戏剧性晕厥的场景"
+    },
+    {
+        "id": "cat_being_interviewed",
+        "usage": "采访、询问场景"
+    },
+    {
+        "id": "cat_carrying_a_bag",
+        "usage": "出行的场景"
+    },
+    {
+        "id": "cat_dancing",
+        "usage": "欢乐的场景"
+    },
+    {
+        "id": "cat_dressing_in_chinese_new_year_style_dancing",
+        "usage": "开心愉悦，或是春节庆祝场景"
+    },
+    {
+        "id": "cat_driving_a_car",
+        "usage": "驾驶场景"
+    },
+    {
+        "id": "cat_eating_a_cucumber",
+        "usage": "搞笑，吃东西的场景"
+    },
+    {
+        "id": "cat_eating_snacks",
+        "usage": "放松，嘴馋的场景"
+    },
+    {
+        "id": "cat_feeling_wronged",
+        "usage": "可怜，求安慰的场景"
+    },
+    {
+        "id": "cat_gazing_at_another_cat",
+        "usage": "发现对方说出不可言说的秘密，宁静但幽默的场景"
+    },
+    {
+        "id": "cat_holding_a_gun",
+        "usage": "夸张搞笑的场景"
+    },
+    {
+        "id": "cat_holding_head_and_screaming",
+        "usage": "崩溃抓狂的场景"
+    },
+    {
+        "id": "cat_kissing_you",
+        "usage": "表达爱意的场景"
+    },
+    {
+        "id": "cat_knocking_a_bowl",
+        "usage": "讨要食物的场景"
+    },
+    {
+        "id": "cat_looking_at_another_cat_confusedly",
+        "usage": "疑惑不解的场景"
+    },
+    {
+        "id": "cat_making_a_bow",
+        "usage": "拜年讨红包，或是较为搞笑的情形下有求于人的场景"
+    },
+    {
+        "id": "cat_on_a_motor_rotating",
+        "usage": "炫技表演的场景"
+    },
+    {
+        "id": "cat_questioning",
+        "usage": "对于某些尴尬的事情发出疑问时的场景"
+    },
+    {
+        "id": "cat_rapidly_opening_and_closing_mouth",
+        "usage": "不知该说什么，于是装可爱的场景"
+    },
+    {
+        "id": "cat_riding_a_motor",
+        "usage": "炫酷出行的场景"
+    },
+    {
+        "id": "cat_rotating",
+        "usage": "开心，搞笑的场景"
+    },
+    {
+        "id": "cat_shaking_head_with_music",
+        "usage": "开心，等待发生某件好的事情的场景"
+    },
+    {
+        "id": "cat_shouting_angryly",
+        "usage": "激烈抗议的场景"
+    },
+    {
+        "id": "cat_sitting",
+        "usage": "观察等待的场景"
+    },
+    {
+        "id": "cat_working_on_the_computer",
+        "usage": "办公，做作业的场景"
+    },
+    {
+        "id": "cat_yawning",
+        "usage": "疲惫困倦的场景"
+    },
+    {
+        "id": "confused_cat",
+        "usage": "迷茫不解的场景"
+    },
+    {
+        "id": "cool_cat_typing",
+        "usage": "耍酷，展示技能的场景"
+    },
+    {
+        "id": "crying_banana-like-cat",
+        "usage": "悲伤却搞笑的场景"
+    },
+    {
+        "id": "curl_up_cat_shaking",
+        "usage": "害怕的场景"
+    },
+    {
+        "id": "fat_cat_dancing_with_music",
+        "usage": "魔性舞蹈的场景"
+    },
+    {
+        "id": "happy_cat_dancing",
+        "usage": "庆祝成功，或是单纯开心的场景"
+    },
+    {
+        "id": "hopeless_cat",
+        "usage": "生无可恋的场景"
+    },
+    {
+        "id": "muddled_cat",
+        "usage": "犯蠢搞笑的场景"
+    },
+    {
+        "id": "serious_cat_questioning",
+        "usage": "审问，但对于较为搞笑的事情的场景"
+    },
+    {
+        "id": "sheep_sticking_out_tongue",
+        "usage": "调皮捣蛋的场景"
+    },
+    {
+        "id": "shocked_cat",
+        "usage": "震惊的场景"
+    },
+    {
+        "id": "shouting_cat",
+        "usage": "引起注意的场景"
+    },
+    {
+        "id": "singing_strange_cat",
+        "usage": "魔性，诡异的场景"
+    },
+    {
+        "id": "sleepy_cat",
+        "usage": "感到困倦的场景"
+    },
+    {
+        "id": "unhappy_cat_shouting",
+        "usage": "发泄不满的场景"
+    },
+    {
+        "id": "wet_upset_cat",
+        "usage": "失败，尴尬的场景"
+    }
+]
