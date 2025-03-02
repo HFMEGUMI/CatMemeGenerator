@@ -1,5 +1,5 @@
 # CatMemeGenerator
-利用 DeepSeek API 的完全自动化的猫 meme 生成器。
+利用 DeepSeek API 的完全自动化的猫 meme 视频生成器。
 
 ## 运行
 [下载](https://www.123865.com/s/pS3VVv-pKM4) memes.zip 并解压至 ./memes 目录下。
